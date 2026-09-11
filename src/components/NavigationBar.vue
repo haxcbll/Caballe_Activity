@@ -17,6 +17,10 @@
         <li><router-link to="/campus-life">Campus Life</router-link></li>
         <li><router-link to="/news">News</router-link></li>
         <li><router-link to="/contact">Contact</router-link></li>
+        <li><router-link to="/SampleData">Sample Data</router-link></li>
+        <li><router-link to="/SampleMethods">Sample Methods</router-link></li>
+        <li><router-link to="/Sample-vmodel">Sample Vmodel</router-link></li>
+        <li><router-link to="/activity2-live">Activity 2: Live Profile</router-link></li>
       </ul>
       <div class="actions">
         <button class="login-btn">Portal Login</button>
